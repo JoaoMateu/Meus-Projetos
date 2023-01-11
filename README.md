@@ -1,2 +1,2 @@
-# Meus-Projetos
-Projetos que foram feitos na faculdade
+# Meus-Projetos de C++
+Todos os LVPS feitos
